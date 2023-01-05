@@ -1,0 +1,9 @@
+# Sample Curation
+## Sample identification
+
+All samples are identified with a QR code that is assigned in the field, contains all metadata of sample collection, and allows for samples to be tracked by computers throughout processing and analysis. However they are difficult for humans to interpret.
+
+## Human-readable tags
+to every square. This allows for an identifier that is easy for humans to keep track of, allows for alphabetizing of samples, and easily pairs top and subsoils from a given location. It is a simple substitute for both soil sample ID and lat/long readings that are difficult for people to process.
+When a sample comes in from the field and the lat/long has been linked to the QR, code new labels can be printed with the W3W and pertinent metadata included. These can now be read by both humans and computers and minimizes confusion during handling. 
+![]()
