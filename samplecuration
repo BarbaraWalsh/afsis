@@ -6,4 +6,19 @@ All samples are identified with a QR code that is assigned in the field, contain
 ## Human-readable tags
 to every square. This allows for an identifier that is easy for humans to keep track of, allows for alphabetizing of samples, and easily pairs top and subsoils from a given location. It is a simple substitute for both soil sample ID and lat/long readings that are difficult for people to process.
 When a sample comes in from the field and the lat/long has been linked to the QR, code new labels can be printed with the W3W and pertinent metadata included. These can now be read by both humans and computers and minimizes confusion during handling. 
-![]()
+![label]()
+
+##Container Construction
+Shipping containers are inexpensive, easy to obtain, and portable. If raised on solid concrete footings, they are also water-tight and vermin-proof. Individual dried, processed samples should be stored in plastic containers. These can often be obtained in quantity by companies producing food storage containers (preferably for commercial use – i.e. those who supply to local ice cream manufacturers). These can be further grouped into plastic milk or bread crates.
+Interior shelving can be purchased but it may be less expensive and more space-efficient to have them custom-made according to your crate sizes and welded in place.
+![container 1]()
+![container 2]()
+
+##Sample Storage
+When samples have been processed and are ready for storage, they will ideally be placed into larger boxes (milk or bread crates) for shelving. This can be done in several ways, but we have found that if they are sorted as they come in, they will already be grouped by date of collection/processing and, depending on the number of teams, by district or other larger area. Storage according to region or other geographic location was considered but would involve resorting the crates as new samples come in and increase the risk of misplacing crates.
+Each larger box should be given a label indicating the team, district, dates of collection, and crate number. Boxes can be stored in the crate alphabetically by the first word in the W3W identifier. If there are too many samples from a given district collected by one team to fit in a single crate, the label should also indicate the first word of the W3W identifier from the first and last sample in the crate.
+![crate label]()
+Crates are organized by letter and number. Numbers correspond to shelves 1-9 (using the example of our system in Tanzania) on the left side of the container and 10-18 on the right side, this can continue into the following containers. Letters indicate columns of crates from front to back. The first two slots may be left empty to allow for temporary placement of samples that have been pulled for reference or other reasons. Starting with the third slot the columns are labeled A-Z from the front of container to the back.
+![container diagram]()
+Lastly, the location (i.e. U7) of each sample is recorded by scanning the QR code and adding the crate designation to the metadata. 
+
